@@ -44,7 +44,7 @@ export default function valentine() {
         });
 
         // Variables for circular motion
-        const radius = 200; // Radius of the circular path
+        const radius = 170; // Radius of the circular path
         const centerX = YesButton.offsetLeft + YesButton.offsetWidth / 2; // X position of Yes button (center)
         const centerY = YesButton.offsetTop + YesButton.offsetHeight / 2; // Y position of Yes button (center)
         let angle = 0; // Start angle
