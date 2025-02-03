@@ -259,3 +259,14 @@ color: #d62828;
       transform: scaleX(0.85);
     }
   }
+
+#Next-Page {
+  margin-top: 30px;
+  margin-left: 100px;
+  height: 30px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+}

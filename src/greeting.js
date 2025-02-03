@@ -32,6 +32,7 @@ export default function valentine() {
                     </div>
                 </div>
                 <div class="shadow"></div>
+                <button id="Next-Page">Next</button>
             `;
 
             // Append the letter to the body
