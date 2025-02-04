@@ -1,3 +1,4 @@
+// animations.js
 export default function initAnimations() {
     $(document).on("mouseenter", ".container", function () {
         $(".card").stop().animate({ top: "-90px" }, "slow");
