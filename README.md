@@ -4,7 +4,7 @@
 
 ![valentine 1](https://github.com/user-attachments/assets/09cd872c-ae86-4a55-860a-e285bd6a4bbf)
 
-The No button will move atound if u try to click it !!! 
+The No button will move around if you try to click it !!! 
 
 ![valentine 2](https://github.com/user-attachments/assets/ebce3707-a589-42dc-bce6-f7ba0e3aab92)
 
